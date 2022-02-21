@@ -1,4 +1,4 @@
-FROM nginx:1.21.3-alpine
+FROM nginx:1.21.6-alpine
 MAINTAINER Focusate JSC <dev@focusate.eu>
 
 # Demo page is useless, so we are removing it to not interfere.
